@@ -93,7 +93,7 @@
 
 <p align="center">
   <!-- Replace the # values with your real profile links -->
-  <a href="[https://www.linkedin.com/in/eman-elkady-649354193">
+  <a href="https://www.linkedin.com/in/eman-elkady-649354193">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:eman.elkady1991@gmail.com">
