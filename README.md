@@ -63,28 +63,29 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<!-- Replace YOUR_GITHUB_USERNAME with your GitHub username -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=emanMhamdy&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Eman Mohamed's GitHub stats"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=emanMhamdy&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most used languages"
     height="180"
   />
 </p>
-
+<!--
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=emanMhamdy&theme=tokyonight&hide_border=true"
     alt="GitHub streak stats"
   />
-</p>
+</p>-->
+
 
 ---
 
