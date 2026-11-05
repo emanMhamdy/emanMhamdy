@@ -78,16 +78,18 @@
     height="180"
   />
 </p>
-<!--
+
+
+### 🔥 GitHub Streak
+
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=emanMhamdy&theme=tokyonight&hide_border=true"
-    alt="GitHub streak stats"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=emanMhamdy&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
-</p>-->
+</p>
 
 
----
 
 ## 🤝 Connect With Me
 
